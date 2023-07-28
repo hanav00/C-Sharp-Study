@@ -1,0 +1,17 @@
+C:\C#Study\visualStudio\HelloWorldWinForms\bin\Debug\net6.0-windows\HelloWorldWinForms.exe
+C:\C#Study\visualStudio\HelloWorldWinForms\bin\Debug\net6.0-windows\HelloWorldWinForms.deps.json
+C:\C#Study\visualStudio\HelloWorldWinForms\bin\Debug\net6.0-windows\HelloWorldWinForms.runtimeconfig.json
+C:\C#Study\visualStudio\HelloWorldWinForms\bin\Debug\net6.0-windows\HelloWorldWinForms.dll
+C:\C#Study\visualStudio\HelloWorldWinForms\bin\Debug\net6.0-windows\HelloWorldWinForms.pdb
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.csproj.AssemblyReference.cache
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.Form1.resources
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.csproj.GenerateResource.cache
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.AssemblyInfoInputs.cache
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.AssemblyInfo.cs
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.csproj.CoreCompileInputs.cache
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.dll
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\refint\HelloWorldWinForms.dll
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.pdb
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\HelloWorldWinForms.genruntimeconfig.cache
+C:\C#Study\visualStudio\HelloWorldWinForms\obj\Debug\net6.0-windows\ref\HelloWorldWinForms.dll
