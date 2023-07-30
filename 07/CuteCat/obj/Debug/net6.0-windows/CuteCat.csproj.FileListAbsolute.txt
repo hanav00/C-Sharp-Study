@@ -1,0 +1,17 @@
+C:\C#Study\visualStudio\CuteCat\bin\Debug\net6.0-windows\CuteCat.exe
+C:\C#Study\visualStudio\CuteCat\bin\Debug\net6.0-windows\CuteCat.deps.json
+C:\C#Study\visualStudio\CuteCat\bin\Debug\net6.0-windows\CuteCat.runtimeconfig.json
+C:\C#Study\visualStudio\CuteCat\bin\Debug\net6.0-windows\CuteCat.dll
+C:\C#Study\visualStudio\CuteCat\bin\Debug\net6.0-windows\CuteCat.pdb
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.csproj.AssemblyReference.cache
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.Form1.resources
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.csproj.GenerateResource.cache
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.AssemblyInfoInputs.cache
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.AssemblyInfo.cs
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.csproj.CoreCompileInputs.cache
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.dll
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\refint\CuteCat.dll
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.pdb
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\CuteCat.genruntimeconfig.cache
+C:\C#Study\visualStudio\CuteCat\obj\Debug\net6.0-windows\ref\CuteCat.dll
