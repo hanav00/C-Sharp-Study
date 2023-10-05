@@ -39,7 +39,7 @@ namespace ReflectionPractice
             // 동적 인스턴스 생성
             object instance = Activator.CreateInstance(dynamicType);
             MethodInfo calculate = dynamicType.GetMethod("Add");
-            Console.WriteLine(calculate.Invoke(instance, new object[] { 5, 7 })); // 수정된 부분: 인스턴스를 null로 변경
+            Console.WriteLine(calculate.Invoke(instance, new object[] { 5, 7 }));
         }
     }
 }
