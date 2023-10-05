@@ -37,6 +37,14 @@ namespace LinqPractice
             }
             Console.WriteLine();
 
+            /*
+                8
+                6
+                4
+                2
+                2
+            */
+
             // 1-2. select new()
             Inventory[] fruitStore =
             {
@@ -72,6 +80,13 @@ namespace LinqPractice
             }
             Console.WriteLine();
 
+            /*
+                Apple : + 7
+                Grape : + 2
+                Pear : + 5
+                Strawberry : + 1
+            */
+
             // 1-3. join
             Goods[] fruitSeller =
             {
@@ -95,6 +110,13 @@ namespace LinqPractice
                 Console.WriteLine($"{fruit.Name} ->  {fruit.RequiredCost} Won");
             }
             Console.WriteLine();
+
+            /*
+                Blueberry ->  50000 Won
+                Grape ->  40000 Won
+                Persimmon ->  56000 Won
+                Strawberry ->  27000 Won
+            */
         }
     }
 }
