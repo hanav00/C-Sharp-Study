@@ -30,5 +30,6 @@ This is a simple Windows Forms application that allows you to copy files from on
 
 
 ## Screenshots
-
+![image1](https://github.com/hanav00/C-Sharp-Study/assets/123611673/ae59e0f9-ddc2-456a-a537-2760b3910c2b)
+![image2](https://github.com/hanav00/C-Sharp-Study/assets/123611673/65ead20d-0f71-4369-ac38-83c9361ad276)
 
